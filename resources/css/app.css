@@ -418,7 +418,7 @@ video {
 
   @font-face {
     font-family: Onest Regular;
-    src: url('/fonts/onest/OnestBold1602-hint.ttf') format("ttf");
+    src: url('/fonts/onest/OnestRegular1602-hint.ttf') format("ttf");
   }
 
   @font-face {
@@ -5155,6 +5155,7 @@ video {
     background: url('/img/kate-bg.webp');
     background-size: cover;
   }
+
 }
 @media (min-width: 1280px) {
 

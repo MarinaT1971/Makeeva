@@ -31,5 +31,22 @@ Route::get('/payment', function () {
     return Inertia::render('payment');
 });
 
+Route::get('/admin_course', function () {
+    return Inertia::render('admin_course');
+});
+
+Route::get('/admin_lesson', function () {
+    return Inertia::render('admin_lesson');
+});
+
+Route::get('/admin_payment', function () {
+    return Inertia::render('admin_payment');
+});
+
+Route::get('/admin_sertificat', function () {
+    return Inertia::render('admin_sertificat');
+});
+
+
 
 require __DIR__.'/auth.php';
