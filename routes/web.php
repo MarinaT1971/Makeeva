@@ -16,35 +16,39 @@ use Inertia\Inertia;
 */
 
 Route::get('/sistem_404', function () {
-    return Inertia::render('sistem_404');
+    return Inertia::render('AdminPages/sistem_404');
 });
 
 Route::get('/sistem_error', function () {
-    return Inertia::render('sistem_error');
+    return Inertia::render('AdminPages/sistem_error');
 });
 
 Route::get('/sistem_success', function () {
-    return Inertia::render('sistem_success');
+    return Inertia::render('AdminPages/sistem_success');
 });
 
 Route::get('/payment', function () {
-    return Inertia::render('payment');
+    return Inertia::render('AdminPages/payment');
 });
 
 Route::get('/admin_course', function () {
-    return Inertia::render('admin_course');
+    return Inertia::render('AdminPages/admin_course');
 });
 
 Route::get('/admin_lesson', function () {
-    return Inertia::render('admin_lesson');
+    return Inertia::render('AdminPages/admin_lesson');
 });
 
 Route::get('/admin_payment', function () {
-    return Inertia::render('admin_payment');
+    return Inertia::render('AdminPages/admin_payment');
 });
 
 Route::get('/admin_sertificat', function () {
-    return Inertia::render('admin_sertificat');
+    return Inertia::render('AdminPages/admin_sertificat');
+});
+
+Route::get('/legalCourse', function () {
+    return Inertia::render('legalCourse');
 });
 
 
