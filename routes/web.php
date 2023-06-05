@@ -51,6 +51,11 @@ Route::get('/legalCourse', function () {
     return Inertia::render('legalCourse');
 });
 
+Route::get('/brainBlast', function () {
+    return Inertia::render('brainBlast');
+});
+
+
 
 
 require __DIR__.'/auth.php';

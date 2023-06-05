@@ -8,19 +8,19 @@
                          <div class="flex justify-between items-center">
                               <div class="font-['Onest_Medium'] text-[2.5rem] leading-[1.05em] text-black-400">Оплаты</div>
                               <div class="flex gap-2">
-                                   <div style="background-image: url(/img/pink.png)"
+                                   <div style="background-image: url(/img/pink_WebP.WebP)"
                                         class="p-4 bg-center bg-cover rounded-2xl w-fit">
                                         <div class="font-['Onest_Medium'] text-2xl text-white">1 987 679</div>
                                         <div class="mt-6 font-['Onest_Regular'] text-white text-xs leading-[1.3em]">Школа
                                         </div>
                                    </div>
-                                   <div style="background-image: url(/img/blue.png)"
+                                   <div style="background-image: url(/img/blue_WebP.WebP)"
                                         class="p-4 bg-center bg-cover rounded-2xl w-fit">
                                         <div class="font-['Onest_Medium'] text-2xl text-white">567 029</div>
                                         <div class="mt-6 font-['Onest_Regular'] text-white text-xs leading-[1.3em]">
                                              Разработка</div>
                                    </div>
-                                   <div style="background-image: url(/img/yellow.png)"
+                                   <div style="background-image: url(/img/yellow_WEbP.WebP)"
                                         class="p-4 bg-center bg-cover rounded-2xl w-fit">
                                         <div class="font-['Onest_Medium'] text-2xl text-white">30 978</div>
                                         <div class="mt-6 font-['Onest_Regular'] text-white text-xs leading-[1.3em]">Налоги

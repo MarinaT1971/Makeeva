@@ -3,7 +3,7 @@
 
     <Main>
         <div class="bg-gray-130 pb-18 md:pb-[7.5rem]">
-            <div style="background-image: url(/img/bg_legal.png)"
+            <div style="background-image: url(/img/bg_legal_WebP.WebP)"
                 class="pt-4 md:pt-6 pb-12 sm:pb-14 rounded-b-4xl bg-center bg-cover">
                 <div class="container mx-auto px-4">
                     <div class="h-[57px]"></div> <!--Место для шапки, потом удалить-->
@@ -219,7 +219,7 @@
                         </ul>
                     </div>
                 </div>
-                <div style="background-image: url(/img/bg_legal-1.png)"
+                <div style="background-image: url(/img/bg_legal-1_WebP.WebP)"
                     class="mt-3 grid grid-cols-6 gap-3 md:gap-4 pt-4 md:pt-8 pb-8 md:pb-14 rounded-2xl px-4 md:px-8 md:rounded-3xl font-['Onest_Regular'] text-white bg-center bg-cover">
                     <div class="col-span-6 lg:col-span-1 text-2xs tracking-[-.02em]">Готовые материалы</div>
                     <div class="col-span-6 md:col-span-3 lg:col-span-2 lg:pl-1.5 text-21xl md:text-31xl">Полный пакет
@@ -267,14 +267,14 @@
                         </div>
                     </div>
                     <div class="col-span-6 lg:col-span-4 md:mt-6 lg:mt-4">
-                        <img src="img/example.jpg" class="h-64 md:h-[406px] lg:h-[392px] w-full lg:w-[632px] rounded-2xl">
+                        <img src="img/example_WebP.WebP" class="h-64 md:h-[406px] lg:h-[392px] w-full lg:w-[632px] rounded-2xl">
                     </div>
                 </div>
             </section>
 
             <section class="mt-[4.5rem] md:mt-[7.5rem] container mx-auto px-4">
                 <!--Точно как в макете не получилось (фото, blur)-->
-                <div style="background-image: url(/img/bg_legal-2.png)"
+                <div style="background-image: url(/img/bg_legal-2_WebP.WebP)"
                     class="h-[600px] md:h-[764px] lg:h-[720px] pt-4 sm:px-3 sm:pb-1 md:p-8 rounded-3xl md:rounded-4xl lg:rounded-4.5xl bg-bottom lg:bg-left xl:bg-center bg-cover font-['Onest_Regular'] text-white flex flex-col justify-between">
                     <div class="text-31xl md:text-53xl pl-4 md:pl-0">Спикер</div>
                     <!--===========================Для экрана больше md===========================================-->
@@ -337,7 +337,7 @@
 
         <section class="mt-[4.5rem] md:mt-[7.5rem] container mx-auto px-4">
             <div class="grid grid-cols-6 gap-4">
-                <div style="background-image: url(/img/bg_legal-3.png)"
+                <div style="background-image: url(/img/bg_legal-3_WebP.WebP)"
                     class="col-span-6 lg:col-span-3 p-4 md:p-8 text-white font-['Onest_Regular'] rounded-2xl md:rounded-3.5xl bg-center bg-cover">
                     <div class="flex gap-2 md:gap-3 flex-col md:flex-row">
                         <div

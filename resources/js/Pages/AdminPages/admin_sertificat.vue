@@ -9,13 +9,13 @@
                               <div class="font-['Onest_Medium'] text-[2.5rem] leading-[1.05em] text-black-400">Сертификаты
                               </div>
                               <div class="flex gap-2">
-                                   <div style="background-image: url(/img/pink.png)"
+                                   <div style="background-image: url(/img/pink_WebP.WebP)"
                                         class="p-4 bg-center bg-cover rounded-2xl w-fit">
                                         <div class="font-['Onest_Medium'] text-2xl text-white">394</div>
                                         <div class="mt-5 font-['Onest_Regular'] text-white text-xs leading-[1.3em]">Студента
                                         </div>
                                    </div>
-                                   <div style="background-image: url(/img/blue.png)"
+                                   <div style="background-image: url(/img/blue_WebP.WebP)"
                                         class="p-4 bg-center bg-cover rounded-2xl w-fit">
                                         <div class="font-['Onest_Medium'] text-2xl text-white">109</div>
                                         <div class="mt-5 font-['Onest_Regular'] text-white text-xs leading-[1.3em]">
