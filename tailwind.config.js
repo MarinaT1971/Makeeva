@@ -24,10 +24,10 @@ module.exports = {
       '2.2xl': ['1.625rem', { // 26px
         lineHeight: '120%',
       }],
-      '2.5xl': ['1.75rem', {
+      '2.5xl': ['1.75rem', {  //28px
         lineHeight: '130%',
       }],
-      '2.7xl': ['1.875rem' , {
+      '2.7xl': ['1.875rem' , {  //30px
         lineHeight: '110%',
       }],
       '31xl': ['2rem', { //32px
@@ -48,10 +48,13 @@ module.exports = {
       '52xl': ['2.625rem', { //42px
         lineHeight: '120%',
       }],
+      '55xl': '2.875rem', // 46px
+      '535xl': ['3rem', { //48 px
+        lineHeight: '105%',
+      }], 
       '53xl': ['3rem', { //48 px
         lineHeight: '110%',
-      }],
-      '55xl': '2.875rem', // 46px
+      }],   
       '554xl': ['3.5rem', { //56px
         lineHeight: '100%',
       }],
@@ -103,6 +106,8 @@ module.exports = {
       colors: {
         'black': {
           DEFAULT: '#242424',
+          '100': '#111111',
+          '150': '#141414',
           '200': '#1F2328',
           '300': '#171B20',
           '400': '#171717',
@@ -163,6 +168,7 @@ module.exports = {
         },
         'orange': {
           DEFAULT: '#FD7942',
+          50: '#FB6433',
         },
         'yellow': {
           DEFAULT: '#FFDD2D',

@@ -417,8 +417,15 @@ video {
   }
 
   @font-face {
+    font-family: Onest Light;
+    font-weight: 300;
+    src: url('/fonts/onest/OnestLight1602-hint.woff') format("woff");
+  }
+
+  @font-face {
     font-family: Onest Regular;
-    src: url('/fonts/onest/OnestRegular1602-hint.ttf') format("ttf");
+    src: url('/fonts/onest/OnestRegular1602-hint.woff') format("woff");
+    /*src: url('/fonts/onest/OnestRegular1602-hint.ttf') format("ttf");*/
   }
 
   @font-face {

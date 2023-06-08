@@ -56,6 +56,4 @@ Route::get('/brainBlast', function () {
 });
 
 
-
-
 require __DIR__.'/auth.php';
